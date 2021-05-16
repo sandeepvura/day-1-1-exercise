@@ -1,3 +1,8 @@
-print("Day 1 - Python Print Function")
-print("The function is declared like this:")
-print('what to print')
+input("what is your name? ")
+
+### Print the input function 
+print(input("what is your name? "))
+
+### Concatenate the string with input function
+
+print("Hello " + input("What is your name? "))
